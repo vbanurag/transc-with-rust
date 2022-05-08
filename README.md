@@ -10,6 +10,11 @@
   cargo run <input_file> <output_file>
 ```
 
+```
+  cargo run input/test.csv input/out.csv
+```
+
+
 ## Scoring
 
 You will be scored on the following criteria
